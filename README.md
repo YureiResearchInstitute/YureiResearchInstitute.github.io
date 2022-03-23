@@ -70,6 +70,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=40784
 choose vcredist_x86.exe.
 
 **Error Reporting**
+
 If you encounter an error, please check following before reporting:
 1. You are using the correct version of save editor
 2. (YW2 and above only) "head.yw" file exists in the same directory as "game*.yw" file
